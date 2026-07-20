@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "0-Inbox/attachments",
+  "newFileLocation": "0-Inbox",
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "prettyIndent": true,
+  "useMarkdownLinks": false,
+  "wikilinks": true,
+  "defaultView": "preview"
+}

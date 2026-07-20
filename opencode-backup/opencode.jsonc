@@ -1,0 +1,16 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "default_agent": "wasakaai",
+  "model": "opencode/hy3-free",
+  "disabled_providers": ["nvidia", "ollama"],
+  "agent": {
+    "wasakaai": {
+      "description": "WasakaAI — Just A Rather Very Intelligent System. Elite AI assistant with British composure and 15+ years cross-domain expertise.",
+      "mode": "primary",
+      "prompt": "{file:C:\\Users\\Breinit\\.config\\opencode\\agents\\wasakaai.md}"
+    }
+  },
+  "instructions": [
+    "{file:C:\\Users\\Breinit\\WasakaAI\\knowledge\\INDEX.md}"
+  ]
+}
