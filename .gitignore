@@ -1,0 +1,19 @@
+# WasakaAI Brain Config - Git Ignore
+# Exclude session logs for privacy and token size
+knowledge/sessions/
+# Exclude environment secrets
+.env*
+# Exclude system files
+.DS_Store
+Thumbs.db
+# Exclude local editor configs
+.vscode/
+.idea/
+# Exclude temporary files
+*.tmp
+*.log
+
+# Binary files
+*.exe
+*.msi
+*.zip
